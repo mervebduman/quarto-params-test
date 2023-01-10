@@ -1,2 +1,5 @@
 /.quarto/
 .Rhistory
+test.html
+test_files/
+.DS_Store
