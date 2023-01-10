@@ -1,0 +1,7 @@
+---
+title: "Test Quarto Report"
+---
+
+```{r}
+read.csv(params$data)
+```
